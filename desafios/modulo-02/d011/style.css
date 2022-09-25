@@ -1,0 +1,23 @@
+@charset "UFT-8";
+
+*{
+    margin: 0;
+}
+img{
+    width: 100%;
+}
+#imagem2{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    padding-bottom: 0%;
+
+}
+
+#astronauta{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    width: 35%;
+    height: 35%;
+}
